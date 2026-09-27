@@ -13,6 +13,12 @@ A Genshin Impact "Mavuika" light skin for the Codex desktop app, powered by [Cod
 - 含通过 Dream Skin 安全校验的 `theme.css`（磨砂质感）/ Ships a validator-safe `theme.css` (soft translucency)
 - 2560×1440 背景图 / 2560×1440 background
 
+## 兼容性 / Compatibility
+
+Codex Windows 26.924 与 Dream Skin v1.5.18 存在主区域和输入框消失的问题，参见 [upstream issue #415](https://github.com/Fei-Away/Codex-Dream-Skin/issues/415)。本主题的对比度修复不解决该注入兼容性问题；受影响版本请保持 Dream Skin 暂停，等待上游修复。
+
+Codex Windows 26.924 with Dream Skin v1.5.18 can hide the main content and composer (see the upstream issue above). This theme's contrast update does not fix that injection compatibility problem. Keep Dream Skin paused on affected versions until an upstream fix is verified.
+
 ## 安装 / Install
 
 1. 安装 [Codex Dream Skin](https://github.com/Fei-Away/Codex-Dream-Skin) 客户端并确保托盘程序在运行 / Install the Dream Skin client and make sure the tray app is running
