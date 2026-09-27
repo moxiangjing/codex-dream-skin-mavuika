@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "mavuika-art-nouveau",
+  "name": "Mavuika · Art Nouveau",
+  "brandSubtitle": "CODEX DREAM SKIN",
+  "tagline": "An ember-lit silhouette in gold and laurel, poised beside quiet space for work.",
+  "projectPrefix": "Select project · ",
+  "projectLabel": "◉  Select project",
+  "statusText": "FLAMEBORNE ONLINE",
+  "quote": "于烈火中，得见黎明",
+  "image": "background.jpg",
+  "appearance": "light",
+  "art": {
+    "focusX": 0.66,
+    "focusY": 0.45,
+    "safeArea": "left",
+    "taskMode": "ambient"
+  },
+  "colors": {
+    "background": "#f2ebe1",
+    "panel": "#faf6ee",
+    "panelAlt": "#e9dfd0",
+    "accent": "#c2452a",
+    "accentAlt": "#d97b3f",
+    "secondary": "#33523f",
+    "highlight": "#a8321f",
+    "text": "#392620",
+    "muted": "#8a6f5c",
+    "line": "rgba(194, 69, 42, .28)"
+  },
+  "promoTitle": "Codex Dream Skin",
+  "promoSub": "Mavuika · Art Nouveau",
+  "promoUrl": "https://github.com/Fei-Away/Codex-Dream-Skin"
+}

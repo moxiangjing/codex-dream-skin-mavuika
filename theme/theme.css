@@ -1,0 +1,15 @@
+[data-ds-part="root"] {
+  background-color: #f2ebe1;
+}
+[data-ds-part="sidebar"] {
+  background-color: rgba(250, 246, 238, 0.85);
+}
+[data-ds-part="home-hero"] {
+  background-color: rgba(250, 246, 238, 0.55);
+}
+[data-ds-part="composer"] {
+  background-color: rgba(250, 246, 238, 0.92);
+}
+[data-ds-part="dialog"] {
+  background-color: rgba(250, 246, 238, 0.96);
+}
